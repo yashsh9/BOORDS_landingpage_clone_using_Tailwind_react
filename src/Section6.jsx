@@ -17,7 +17,7 @@ function Section6() {
                     <br />
                 </div>
                 <div className="flex justify-center space-x-8 text-center">
-                    <img src={profilepic} alt="pic here" className=" w-10 h-10 rounded-full hidden sm:block" />
+                    <img src={profilepic} alt="pic here" className=" w-10 h-10 rounded-full " />
                     <p className="pt-3"><b>Hope Morley </b><span className="text-[#4f4f4f94]">COO at Umault</span></p>
 
                 </div>
