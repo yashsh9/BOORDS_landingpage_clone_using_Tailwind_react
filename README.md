@@ -1,1 +1,0 @@
-# BOORDS_landingpage_clone_using_Tailwind_react
